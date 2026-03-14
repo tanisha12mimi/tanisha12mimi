@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫HI ! I am Tanisha Parvin
 🎓 BCA Student  <br>💻 Learning Java, Python and SQL  <br>📚 Improving programming and problem-solving skills  <br>🚀 Building small projects while learning
 
 
