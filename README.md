@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎓 BCA Student<br>💻 Learning Java, Python and SQL<br>📚 Improving programming and problem-solving skills<br>🚀 Building small projects while learning<br>🤣I am funny
+ # 💫 About Me:
+🎓 BCA Student<br>💻 Learning Java, Python and SQL , HTML,CSS<br>📚 Improving programming and problem-solving skills<br>🚀 Building small projects while learning<br>🤣I am funny
 
 
 
